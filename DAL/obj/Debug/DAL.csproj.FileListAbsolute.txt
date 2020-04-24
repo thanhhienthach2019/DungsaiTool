@@ -1,0 +1,16 @@
+D:\DungSaiTool\DungSaiTool\DAL\bin\Debug\DAL.dll
+D:\DungSaiTool\DungSaiTool\DAL\bin\Debug\DAL.pdb
+D:\DungSaiTool\DungSaiTool\DAL\bin\Debug\Entities.dll
+D:\DungSaiTool\DungSaiTool\DAL\bin\Debug\Services.dll
+D:\DungSaiTool\DungSaiTool\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DungSaiTool\DungSaiTool\DAL\bin\Debug\System.Data.SQLite.dll
+D:\DungSaiTool\DungSaiTool\DAL\bin\Debug\Entities.pdb
+D:\DungSaiTool\DungSaiTool\DAL\bin\Debug\Services.pdb
+D:\DungSaiTool\DungSaiTool\DAL\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DungSaiTool\DungSaiTool\DAL\bin\Debug\System.Data.SQLite.xml
+D:\DungSaiTool\DungSaiTool\DAL\bin\Debug\System.Data.SQLite.dll.config
+D:\DungSaiTool\DungSaiTool\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\DungSaiTool\DungSaiTool\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DungSaiTool\DungSaiTool\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\DungSaiTool\DungSaiTool\DAL\obj\Debug\DAL.dll
+D:\DungSaiTool\DungSaiTool\DAL\obj\Debug\DAL.pdb

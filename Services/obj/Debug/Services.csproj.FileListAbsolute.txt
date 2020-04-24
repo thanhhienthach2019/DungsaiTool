@@ -1,0 +1,14 @@
+D:\DungSaiTool\DungSaiTool\Services\bin\Debug\Services.dll
+D:\DungSaiTool\DungSaiTool\Services\bin\Debug\Services.pdb
+D:\DungSaiTool\DungSaiTool\Services\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DungSaiTool\DungSaiTool\Services\bin\Debug\Entities.dll
+D:\DungSaiTool\DungSaiTool\Services\bin\Debug\System.Data.SQLite.dll
+D:\DungSaiTool\DungSaiTool\Services\bin\Debug\Entities.pdb
+D:\DungSaiTool\DungSaiTool\Services\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DungSaiTool\DungSaiTool\Services\bin\Debug\System.Data.SQLite.xml
+D:\DungSaiTool\DungSaiTool\Services\bin\Debug\System.Data.SQLite.dll.config
+D:\DungSaiTool\DungSaiTool\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\DungSaiTool\DungSaiTool\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\DungSaiTool\DungSaiTool\Services\obj\Debug\Services.csproj.CopyComplete
+D:\DungSaiTool\DungSaiTool\Services\obj\Debug\Services.dll
+D:\DungSaiTool\DungSaiTool\Services\obj\Debug\Services.pdb

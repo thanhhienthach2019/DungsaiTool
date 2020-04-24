@@ -1,0 +1,5 @@
+D:\DungSaiTool\DungSaiTool\Entities\bin\Debug\Entities.dll
+D:\DungSaiTool\DungSaiTool\Entities\bin\Debug\Entities.pdb
+D:\DungSaiTool\DungSaiTool\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\DungSaiTool\DungSaiTool\Entities\obj\Debug\Entities.dll
+D:\DungSaiTool\DungSaiTool\Entities\obj\Debug\Entities.pdb

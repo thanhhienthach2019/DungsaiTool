@@ -1,0 +1,31 @@
+F:\Project C#\DungSaiTool\DAL\bin\Release\DAL.dll
+F:\Project C#\DungSaiTool\DAL\bin\Release\DAL.pdb
+F:\Project C#\DungSaiTool\DAL\bin\Release\Entities.dll
+F:\Project C#\DungSaiTool\DAL\bin\Release\Services.dll
+F:\Project C#\DungSaiTool\DAL\bin\Release\DocumentFormat.OpenXml.dll
+F:\Project C#\DungSaiTool\DAL\bin\Release\System.Data.SQLite.dll
+F:\Project C#\DungSaiTool\DAL\bin\Release\Entities.pdb
+F:\Project C#\DungSaiTool\DAL\bin\Release\Services.pdb
+F:\Project C#\DungSaiTool\DAL\bin\Release\System.Data.SQLite.xml
+F:\Project C#\DungSaiTool\DAL\bin\Release\System.Data.SQLite.dll.config
+F:\Project C#\DungSaiTool\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+F:\Project C#\DungSaiTool\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Project C#\DungSaiTool\DAL\obj\Release\DAL.csproj.CopyComplete
+F:\Project C#\DungSaiTool\DAL\obj\Release\DAL.dll
+F:\Project C#\DungSaiTool\DAL\obj\Release\DAL.pdb
+D:\DungSaiTool\DungSaiTool\DAL\bin\Release\DAL.dll
+D:\DungSaiTool\DungSaiTool\DAL\bin\Release\DAL.pdb
+D:\DungSaiTool\DungSaiTool\DAL\bin\Release\Entities.dll
+D:\DungSaiTool\DungSaiTool\DAL\bin\Release\Services.dll
+D:\DungSaiTool\DungSaiTool\DAL\bin\Release\DocumentFormat.OpenXml.dll
+D:\DungSaiTool\DungSaiTool\DAL\bin\Release\System.Data.SQLite.dll
+D:\DungSaiTool\DungSaiTool\DAL\bin\Release\Entities.pdb
+D:\DungSaiTool\DungSaiTool\DAL\bin\Release\Services.pdb
+D:\DungSaiTool\DungSaiTool\DAL\bin\Release\DocumentFormat.OpenXml.xml
+D:\DungSaiTool\DungSaiTool\DAL\bin\Release\System.Data.SQLite.xml
+D:\DungSaiTool\DungSaiTool\DAL\bin\Release\System.Data.SQLite.dll.config
+D:\DungSaiTool\DungSaiTool\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\DungSaiTool\DungSaiTool\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\DungSaiTool\DungSaiTool\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\DungSaiTool\DungSaiTool\DAL\obj\Release\DAL.dll
+D:\DungSaiTool\DungSaiTool\DAL\obj\Release\DAL.pdb

@@ -1,0 +1,16 @@
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\bin\Debug\SQLiteHelper.dll
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\bin\Debug\SQLiteHelper.pdb
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\bin\Debug\Entities.dll
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\bin\Debug\Services.dll
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\bin\Debug\System.Data.SQLite.dll
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\bin\Debug\Entities.pdb
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\bin\Debug\Services.pdb
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\bin\Debug\System.Data.SQLite.xml
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\bin\Debug\System.Data.SQLite.dll.config
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\obj\Debug\SQLiteHelper.csprojAssemblyReference.cache
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\obj\Debug\SQLiteHelper.csproj.CoreCompileInputs.cache
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\obj\Debug\SQLiteHelper.csproj.CopyComplete
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\obj\Debug\SQLiteHelper.dll
+D:\DungSaiTool\DungSaiTool\SQLiteHelper\obj\Debug\SQLiteHelper.pdb

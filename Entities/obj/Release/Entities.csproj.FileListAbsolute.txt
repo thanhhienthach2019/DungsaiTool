@@ -1,0 +1,12 @@
+F:\Project C#\DungSaiTool\Entities\bin\Release\Entities.dll
+F:\Project C#\DungSaiTool\Entities\bin\Release\Entities.pdb
+F:\Project C#\DungSaiTool\Entities\obj\Release\Entities.csprojAssemblyReference.cache
+F:\Project C#\DungSaiTool\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+F:\Project C#\DungSaiTool\Entities\obj\Release\Entities.dll
+F:\Project C#\DungSaiTool\Entities\obj\Release\Entities.pdb
+D:\DungSaiTool\DungSaiTool\Entities\bin\Release\Entities.dll
+D:\DungSaiTool\DungSaiTool\Entities\bin\Release\Entities.pdb
+D:\DungSaiTool\DungSaiTool\Entities\obj\Release\Entities.csprojAssemblyReference.cache
+D:\DungSaiTool\DungSaiTool\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+D:\DungSaiTool\DungSaiTool\Entities\obj\Release\Entities.dll
+D:\DungSaiTool\DungSaiTool\Entities\obj\Release\Entities.pdb

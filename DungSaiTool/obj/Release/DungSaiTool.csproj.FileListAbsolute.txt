@@ -1,0 +1,403 @@
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DSDbLite.db
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\x64\SQLite.Interop.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\x86\SQLite.Interop.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DungSaiTool.exe.config
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DungSaiTool.exe.manifest
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DungSaiTool.application
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DungSaiTool.exe
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DungSaiTool.pdb
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\BUS.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Charts.v18.1.Core.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Data.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.DataAccess.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.DataAccess.v18.1.UI.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Images.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Office.v18.1.Core.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Printing.v18.1.Core.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.RichEdit.v18.1.Core.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.Core.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.Extensions.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Sparkline.v18.1.Core.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Utils.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Utils.v18.1.UI.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraBars.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.UI.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraEditors.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraGrid.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraLayout.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraPrinting.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraRichEdit.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraTreeList.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\Entities.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\Services.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\SQLiteHelper.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DAL.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DocumentFormat.OpenXml.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\System.Data.SQLite.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Xpo.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.CodeParser.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Diagram.v18.1.Core.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraDiagram.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Pdf.v18.1.Core.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraVerticalGrid.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraNavBar.v18.1.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\BUS.pdb
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\Entities.pdb
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\Services.pdb
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\SQLiteHelper.pdb
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Data.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.DataAccess.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.DataAccess.v18.1.UI.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Office.v18.1.Core.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Printing.v18.1.Core.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.RichEdit.v18.1.Core.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.Core.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.Extensions.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Sparkline.v18.1.Core.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Utils.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Utils.v18.1.UI.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraBars.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.UI.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraEditors.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraGrid.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraLayout.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraPrinting.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraRichEdit.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraTreeList.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DAL.pdb
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\System.Data.SQLite.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\System.Data.SQLite.dll.config
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Xpo.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Diagram.v18.1.Core.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraDiagram.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Pdf.v18.1.Core.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraVerticalGrid.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraNavBar.v18.1.xml
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.DataAccess.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.DataAccess.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.DataAccess.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.DataAccess.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Office.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Office.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Office.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Office.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Snap.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Snap.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Snap.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Snap.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Snap.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Snap.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Snap.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Snap.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Snap.v18.1.Extensions.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Snap.v18.1.Extensions.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Snap.v18.1.Extensions.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Snap.v18.1.Extensions.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Utils.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Utils.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Utils.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Utils.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Utils.v18.1.UI.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Utils.v18.1.UI.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Utils.v18.1.UI.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Utils.v18.1.UI.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraBars.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraBars.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraBars.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraBars.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraCharts.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraCharts.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraCharts.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraCharts.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraEditors.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraEditors.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraEditors.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraEditors.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraGrid.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraGrid.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraGrid.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraGrid.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraLayout.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraLayout.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraLayout.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraLayout.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Xpo.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Xpo.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Xpo.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Xpo.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Diagram.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Diagram.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraNavBar.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraNavBar.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.csprojAssemblyReference.cache
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.frmMain.resources
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.frmQuery.resources
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.frmWaiting.resources
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.frmZVendorImport.resources
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.frmZVendorColumnSetup.resources
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.Properties.Resources.resources
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.csproj.GenerateResource.cache
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.exe.licenses
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.csproj.CoreCompileInputs.cache
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.TrustInfo.xml
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.exe.manifest
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.application
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.csproj.CopyComplete
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.exe
+F:\Project C#\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.pdb
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DSDbLite.db
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\x64\SQLite.Interop.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\x86\SQLite.Interop.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DungSaiTool.exe.config
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DungSaiTool.exe.manifest
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DungSaiTool.application
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DungSaiTool.exe
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DungSaiTool.pdb
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\BUS.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Charts.v18.1.Core.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Data.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.DataAccess.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.DataAccess.v18.1.UI.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Images.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Office.v18.1.Core.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Printing.v18.1.Core.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.RichEdit.v18.1.Core.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.Core.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.Extensions.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Sparkline.v18.1.Core.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Utils.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Utils.v18.1.UI.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraBars.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.UI.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraEditors.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraGrid.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraLayout.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraPrinting.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraRichEdit.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraTreeList.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\Entities.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\Services.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\SQLiteHelper.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DAL.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DocumentFormat.OpenXml.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\System.Data.SQLite.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Xpo.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.CodeParser.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Diagram.v18.1.Core.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraDiagram.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Pdf.v18.1.Core.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraVerticalGrid.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraNavBar.v18.1.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\BUS.pdb
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\Entities.pdb
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\Services.pdb
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\SQLiteHelper.pdb
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Data.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.DataAccess.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.DataAccess.v18.1.UI.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Office.v18.1.Core.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Printing.v18.1.Core.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.RichEdit.v18.1.Core.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.Core.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Snap.v18.1.Extensions.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Sparkline.v18.1.Core.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Utils.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Utils.v18.1.UI.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraBars.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.UI.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraEditors.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraGrid.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraLayout.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraPrinting.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraRichEdit.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraTreeList.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DAL.pdb
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DocumentFormat.OpenXml.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\System.Data.SQLite.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\System.Data.SQLite.dll.config
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Xpo.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Diagram.v18.1.Core.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraDiagram.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.Pdf.v18.1.Core.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraVerticalGrid.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\DevExpress.XtraNavBar.v18.1.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.DataAccess.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.DataAccess.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.DataAccess.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.DataAccess.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Snap.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Snap.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Snap.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Snap.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Snap.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Snap.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Snap.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Snap.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Snap.v18.1.Extensions.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Snap.v18.1.Extensions.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Snap.v18.1.Extensions.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Snap.v18.1.Extensions.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Utils.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Utils.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Utils.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Utils.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Utils.v18.1.UI.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Utils.v18.1.UI.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Utils.v18.1.UI.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Utils.v18.1.UI.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraCharts.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraCharts.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraCharts.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraCharts.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraGrid.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraGrid.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraGrid.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraGrid.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Xpo.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Xpo.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Xpo.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Xpo.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\de\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\es\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\bin\Release\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.csprojAssemblyReference.cache
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.frmMain.resources
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.frmQuery.resources
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.frmWaiting.resources
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.frmZVendorImport.resources
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.frmZVendorColumnSetup.resources
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.Properties.Resources.resources
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.csproj.GenerateResource.cache
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.exe.licenses
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.csproj.CoreCompileInputs.cache
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.TrustInfo.xml
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.exe.manifest
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.application
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.csproj.CopyComplete
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.exe
+D:\DungSaiTool\DungSaiTool\DungSaiTool\obj\Release\DungSaiTool.pdb
